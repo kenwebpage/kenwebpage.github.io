@@ -1,1 +1,6 @@
+title: Ken Webpage
+logo: /assets/img/logo.png
+description: Ken Webpage
+show_downloads: true
+# google_analytics:
 theme: jekyll-theme-minimal
