@@ -5,6 +5,8 @@ title: Ken
 
 ## Ken's Curriculum Vitae
 
+**[ Contact Email: num2202@outlook.com ]**
+
 *Please note: This is just to show information hunting for a job.*
 
 ---
