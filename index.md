@@ -1,12 +1,17 @@
 ---
 layout: page
+title: Ken
+---
+
+# Ken 履历
+
+**烦请知悉，该信息展示仅为应聘相关工作使用。**
+
 ---
 
 # Ken's Curriculum Vitae
 
 **Please note: This is just to show information for hunting a job.**
-
----
 
 ## 1. [ Basic Personal Info ]
 
@@ -14,20 +19,8 @@ layout: page
 - Gender: Male
 - City: Tianjin, China
 - Birth: 198?
-- Degree:
-
-  \> Tianjin Polytechnic University
-
-  \> Business Admin
-
-  \> 2004 Bachelor
-- Cert:
-
-  \> Driving license (C)
-
-  \> ISO9000
-
-  \> Hazardous Chemicals Operating
+- Degree: Tianjin Polytechnic University/ 2004 Bachelor/ Business Admin
+- Cert: Driving license (C) + ISO9000 + Hazardous Chemicals Operating
 
 ## 2. [ Self Assessment ]
 
