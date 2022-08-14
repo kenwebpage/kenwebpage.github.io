@@ -1,0 +1,10 @@
+---
+title: Contact
+date: 2022-08-01
+---
+
+[ Contact Information ]
+
+- Email: num2202@outlook.com
+
+---
