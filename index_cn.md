@@ -5,7 +5,7 @@ title: Ken_CN
 
 ## Ken 履历
 
-**[ 联系电子邮件: num2202@outlook.com ]**
+*联系方式: <num2202@outlook.com>*
 
 *烦请知悉，该信息展示仅为应聘相关工作使用。*
 
