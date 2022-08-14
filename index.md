@@ -5,7 +5,7 @@ title: Ken
 
 ## Ken's Curriculum Vitae
 
-**Please note: This is just to show information for hunting a job.**
+*Please note: This is just to show information for hunting a job.*
 
 ---
 
