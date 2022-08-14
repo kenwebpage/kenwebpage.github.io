@@ -15,12 +15,18 @@ layout: page
 - City: Tianjin, China
 - Birth: 198?
 - Degree:
+
   \> Tianjin Polytechnic University
+
   \> Business Admin
+
   \> 2004 Bachelor
 - Cert:
+
   \> Driving license (C)
+
   \> ISO9000
+
   \> Hazardous Chemicals Operating
 
 ## 2. [ Self Assessment ]
