@@ -6,6 +6,8 @@ layout: page
 
 **Please note: This is just to show information for hunting a job.**
 
+---
+
 ## 1. [ Basic Personal Info ]
 
 - Name: Ken
@@ -13,13 +15,13 @@ layout: page
 - City: Tianjin, China
 - Birth: 198?
 - Degree:
-  - Tianjin Polytechnic University
-  - Business Admin
-  - 2004 Bachelor
+  \> Tianjin Polytechnic University
+  \> Business Admin
+  \> 2004 Bachelor
 - Cert:
-  - Driving license (C)
-  - ISO9000
-  - Hazardous Chemicals Operating
+  \> Driving license (C)
+  \> ISO9000
+  \> Hazardous Chemicals Operating
 
 ## 2. [ Self Assessment ]
 
