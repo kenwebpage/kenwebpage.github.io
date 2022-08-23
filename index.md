@@ -11,14 +11,10 @@ title: Ken
 
 ---
 
-### 1. [ Basic Personal Info ]
+### 1. [ Basic Info ]
 
 - Name: Ken
-- Gender: Male
-- City: Tianjin, China
-- Birth: 198?
 - Degree: Tianjin Polytechnic University/ 2004 Bachelor/ Business Admin
-- Cert: Driving license (C) + ISO9000 + Hazardous Chemicals Operating
 
 ### 2. [ Self Assessment ]
 
@@ -26,8 +22,6 @@ title: Ken
 - Familiar with internal audit, internal control, process management.
 - Excellent in computer application and office automation.
 - Experience in establishing new logistics and warehousing, team management, customer management and maintenance.
-
----
 
 ### 3. [ Work Experience ]
 
