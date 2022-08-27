@@ -1,0 +1,209 @@
+#.gitattribute#
+
+* text=auto
+# Set default behavior to automatically normalize line endings. (Convert crlf => lf)
+# 文本文件的行尾自动转换 LF
+
+*.gitattributes  text eol=lf
+*.gitignore      text eol=lf
+*.gitattributes  linguist-language=gitattributes
+# Enable syntax highlighting for files with `.gitattributes` extensions.
+
+# Text files where line endings should be preserved
+*.patch    -text
+
+#-text-lf------------------------------#
+*.bash     text eol=lf
+*.BASH     text eol=lf
+*.fish     text eol=lf
+*.FISH     text eol=lf
+*.gvimrc   text eol=lf
+*.GVIMRC   text eol=lf
+*.json     text eol=lf
+*.JSON     text eol=lf
+*.md       text eol=lf
+*.MD       text eol=lf
+*.mdx      text eol=lf
+*.MDX      text eol=lf
+*.sh       text eol=lf
+*.SH       text eol=lf
+*.toml     text eol=lf
+*.TOML     text eol=lf
+*.vim      text eol=lf
+*.VIM      text eol=lf
+*.vimrc    text eol=lf
+*.VIMRC    text eol=lf
+*.xml      text eol=lf
+*.XML      text eol=lf
+*.yaml     text eol=lf
+*.YAML     text eol=lf
+*.yml      text eol=lf
+*.YML      text eol=lf
+*.zsh      text eol=lf
+*.ZSH      text eol=lf
+
+#-text-crlf------------------------------#
+# windows files and should use text eol=crlf
+*.bat      text eol=crlf
+*.BAT      text eol=crlf
+*.cdxml    text eol=crlf
+*.CDXML    text eol=crlf
+*.cmd      text eol=crlf
+*.CMD      text eol=crlf
+*.mcf      text eol=crlf
+*.MCF      text eol=crlf
+*.msh      text eol=crlf
+*.MSH      text eol=crlf
+*.msh1     text eol=crlf
+*.MSH1     text eol=crlf
+*.msh1xml  text eol=crlf
+*.MSH1XML  text eol=crlf
+*.msh2     text eol=crlf
+*.MSH2     text eol=crlf
+*.msh2xml  text eol=crlf
+*.MSH2XML  text eol=crlf
+*.mshxml   text eol=crlf
+*.MSHXML   text eol=crlf
+*.ps1      text eol=crlf
+*.PS1      text eol=crlf
+*.ps1x     text eol=crlf
+*.PS1X     text eol=crlf
+*.ps1xml   text eol=crlf
+*.PS1XML   text eol=crlf
+*.psd1     text eol=crlf
+*.PSD1     text eol=crlf
+*.psm1     text eol=crlf
+*.PSM1     text eol=crlf
+*.psrc     text eol=crlf
+*.PSRC     text eol=crlf
+*.pssc     text eol=crlf
+*.PSSC     text eol=crlf
+
+
+#-binary------------------------------#
+# 识别为二进制文件，不检测这种文件类型的编码、行尾，文件内容不会被修改
+*.bak  binary
+*.BAK  binary
+*.atn  binary
+*.ATN  binary
+*.csf  binary
+*.CSF  binary
+*.key  binary
+*.KEY  binary
+*.alfredpreferences  binary
+*.ALFREDPREFERENCES  binary
+*_ed25519  binary
+*_ED25519  binary
+*.pub      binary
+*.PUB      binary
+*.db       binary
+*.DB       binary
+*.dat      binary
+*.DAT      binary
+# Data
+*.doc      binary
+*.DOC      binary
+*.docx     binary
+*.DOCX     binary
+*.pdf      binary
+*.PDF      binary
+*.xlsx     binary
+*.XLSX     binary
+# Documents
+*.bmp      binary
+*.BMP      binary
+*.eps      binary
+*.EPS      binary
+*.gif      binary
+*.GIF      binary
+*.ico      binary
+*.ICO      binary
+*.jpeg     binary
+*.JPEG     binary
+*.jpg      binary
+*.JPG      binary
+*.png      binary
+*.PNG      binary
+*.psd      binary
+*.PSD      binary
+*.svg      binary
+*.SVG      binary
+*.tif      binary
+*.TIF      binary
+*.tiff     binary
+*.TIFF     binary
+# Image
+*.aif      binary
+*.AIF      binary
+*.aiff     binary
+*.AIFF     binary
+*.mp3      binary
+*.MP3      binary
+*.ogg      binary
+*.OGG      binary
+*.wav      binary
+*.WAV      binary
+# Audio
+*.asf      binary
+*.ASF      binary
+*.avi      binary
+*.AVI      binary
+*.flv      binary
+*.FLV      binary
+*.mov      binary
+*.MOV      binary
+*.mp4      binary
+*.MP4      binary
+*.mpeg     binary
+*.MPEG     binary
+*.mpg      binary
+*.MPG      binary
+*.ogv      binary
+*.OGV      binary
+*.wmv      binary
+*.WMV      binary
+# Video
+*.7z       binary
+*.7Z       binary
+*.bz2      binary
+*.BZ2      binary
+*.gz       binary
+*.GZ       binary
+*.rar      binary
+*.RAR      binary
+*.tar      binary
+*.TAR      binary
+*.tgz      binary
+*.TGZ      binary
+*.zip      binary
+*.ZIP      binary
+# Archives
+*.eot      binary
+*.EOT      binary
+*.otf      binary
+*.OTF      binary
+*.ttf      binary
+*.TTF      binary
+*.woff     binary
+*.WOFF     binary
+*.woff2    binary
+*.WOFF2    binary
+# Fonts
+*.apk      binary
+*.APK      binary
+*.exe      binary
+*.EXE      binary
+*.pkg      binary
+*.PKG      binary
+# Executable/Installer
+
+
+#-linguist-generated------------------------------#
+
+
+#-export-ignore------------------------------#
+# Exclude files from exporting 忽略不需要下载的文件
+#.gitattributes export-ignore
+#.gitignore     export-ignore
+#.gitkeep       export-ignore
+
